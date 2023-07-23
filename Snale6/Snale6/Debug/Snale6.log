@@ -1,0 +1,7 @@
+﻿  Snale6.cpp
+C:\Users\XXX\Desktop\VKI\C++\Snale6\Snale6\Snale6.cpp(51,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\XXX\Desktop\VKI\C++\Snale6\Snale6\Snale6.cpp(336,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\XXX\Desktop\VKI\C++\Snale6\Snale6\Snale6.cpp(468,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\XXX\Desktop\VKI\C++\Snale6\Snale6\Snale6.cpp(504,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\XXX\Desktop\VKI\C++\Snale6\Snale6\Snale6.cpp(596,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Snale6.vcxproj -> C:\Users\XXX\Desktop\VKI\C++\Snale6\Debug\Snale6.exe
